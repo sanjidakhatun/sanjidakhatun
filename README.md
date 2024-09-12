@@ -1,32 +1,31 @@
-<h1 align="center">Hi 👋, I'm Sanjida Khatun Mukti</h1>
-<h3 align="center">Web developer</h3>
+### Hi there 👋, My name is sanjida khatun mukti
+#### Web developer
+![Web developer](https://github.com/sanjidakhatun/sanjidakhatun/blob/main/programming-background-collage.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjidakhatun&label=Profile%20views&color=0e75b6&style=flat" alt="sanjidakhatun" /> </p>
+👋 Hi, I'm Sanjida Khatun Mukti! I'm a passionate Web Developer with a love for creating engaging, responsive, and user-friendly web applications.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjidakhatun" alt="sanjidakhatun" /></a> </p>
+Skills: js / REACT / JS / HTML / CSS
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning javascript 
+- 🤔 I’m looking for help with multiple wevsite 
+- 📫 How to reach me: sanjidamukti147146@gmail.com 
+- ⚡ Fun fact: i think i am funny 
 
-- 🔭 I’m currently working on **multiple project**
 
-- 🌱 I’m currently learning **javascript**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanjida khatun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sanjida khatun (mim) Mukti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sanjida mim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@Sanjida-Mim)  
 
-- 💬 Ask me about **react**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **sanjidamukti147146@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanjida khatun)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **i think i am funny**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjida khatun)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@sanjida-mim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sanjida-mim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjida-khatun-mukti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjida-khatun-mukti" height="30" width="40" /></a>
-<a href="https://fb.com/sanjida mim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjida mim" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjida khatun&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sanjida khatun/contributions?format=svg&private=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjidakhatun&show_icons=true&locale=en&layout=compact" alt="sanjidakhatun" /></p>
+![GitHub metrics](https://metrics.lecoq.io/sanjida khatun)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjidakhatun&show_icons=true&locale=en" alt="sanjidakhatun" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sanjida khatun)  
+
